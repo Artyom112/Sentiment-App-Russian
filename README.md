@@ -3,6 +3,6 @@
 
 Для запуска приложения, скопируйте репозиторий в свою директиву, используя команду:
 ```
-git clone https://github.com/Artyom112/Sentiment-App.git
+https://github.com/Artyom112/Sentiment-App-Russian.git
 ```
 
